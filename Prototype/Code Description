@@ -1,0 +1,4 @@
+the prototype folder contains 4 python notebooks and one tableau file
+the first two notebboks (Customer Analytics Segmentation using HC, Customer Analytics Segmentation using KC and PCA) contains two methods of clustering 
+after that notebook number three (Purchase Analytics Descriptive Analysis) contains the Descriptive Analysis)
+the last notebook contain the prediction model using logistic regression
